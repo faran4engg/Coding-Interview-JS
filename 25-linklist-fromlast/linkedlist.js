@@ -16,7 +16,7 @@ class LinkedList {
 
   size() {
     let counter = 0;
-    let node = this.head;
+    let node = this.head; 
 
     while (node) {
       counter++;
