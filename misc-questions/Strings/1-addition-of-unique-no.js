@@ -10,7 +10,7 @@ output should be the addition of:
 
 i.e. remove dublicates and then add those numbers
 
-*/
+*/ 
 
 function removeDublicateAndAdd(str) {
   var numArr = str.split(",");
