@@ -20,7 +20,7 @@ function removeDublicateAndAdd(str) {
   var sum = 0;
 
 
-  // creating Array to store unique elements 
+  // creating Array to store unique elements  
   var uniqueNumArr = [];
 
   for (var i = 0; i < numArr.length; i++) {
