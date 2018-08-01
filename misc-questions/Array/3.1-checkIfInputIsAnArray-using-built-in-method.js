@@ -1,3 +1,4 @@
+
 // solution by using in-built method of Array :)
 function is_array(word) {
   return Array.isArray(word)
